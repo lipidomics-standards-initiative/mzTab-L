@@ -11,6 +11,11 @@ The following files were originally created for mzTab-M, and should serve as a s
 
 * [Description of mzTab-M example files](https://github.com/HUPO-PSI/mzTab/wiki/Examples)
 
+## Semantic Validation / CV rules mapping file
+The following files are CV rule mapping files that define where in the mzTab-M document certain CV parameters may occur, which term roots they inherit from and whether CV terms from different vocabularies can be provided as alternatives.
+
+* [Original mzTab-M mapping file](https://github.com/HUPO-PSI/mzTab/blob/master/specification_document-releases/2_0-Metabolomics-Release/mzTab_2_0-M_mapping.xml)
+
 ## Getting Involved
 If you want to get involved with mzTab-M standardization for lipidomics, please request to join this GitHub project.
 
