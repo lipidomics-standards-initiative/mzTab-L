@@ -1,5 +1,5 @@
 # mzTab-L
-Standardization of [mzTab-M](https://github.com/HUPO-PSI/mzTab) for Lipidomics.
+Standardization of [mzTab-M](https://github.com/HUPO-PSI/mzTab) for Lipidomics within the [LSI](https://www.lipidomics-standards-initiative.org).
 
 ## Aims
 * To provide best practice reporting guidelines for lipidomics 
