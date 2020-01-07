@@ -15,6 +15,7 @@ The following files were originally created for mzTab-M, and should serve as a s
 The following files are CV rule mapping files that define where in the mzTab-M document certain CV parameters may occur, which term roots they inherit from and whether CV terms from different vocabularies can be provided as alternatives.
 
 * [Original mzTab-M mapping file](https://github.com/HUPO-PSI/mzTab/blob/master/specification_document-releases/2_0-Metabolomics-Release/mzTab_2_0-M_mapping.xml)
+* [Current draft mzTab-L mapping file](https://github.com/lipidomics-standards-initiative/mzTab-L/blob/master/drafts/1_0-Lipidomics/mzTab_2_0-M-lipidomics_mapping.xml)
 
 ## Getting Involved
 If you want to get involved with mzTab-M standardization for lipidomics, please request to join this GitHub project.
